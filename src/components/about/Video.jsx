@@ -18,7 +18,7 @@ class Video extends React.Component {
 
     render() {
         return (
-            <div className="video-player" style={{ backgroundImage: `url(${process.env.PUBLIC_URL}/assets/images/${this.state.Data.videoBackground})` }}>
+            <div className="video-player" style={{ backgroundImage: `url(./assets/images/${this.state.Data.videoBackground})` }}>
                 <p>Watch Online</p>
                 <ModalVideo channel='youtube' isOpen={this.state.isOpen} videoId={this.state.Data.videoLink} onClose={() => this.setState({ isOpen: false })} />
                 <button className="play-btn" onClick={this.openModal}><i className="las la-play"></i></button>

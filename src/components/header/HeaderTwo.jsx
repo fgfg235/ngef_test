@@ -50,7 +50,7 @@ const HeaderTwo = () => {
                                 <Row>
                                     <Col md="3">
                                         <div className="logo">
-                                            <Link to="/"><img src="/assets/images/f-logo.png" alt="" /></Link>
+                                            <Link to="/"><img src="./assets/images/f-logo.png" alt="" /></Link>
                                         </div>
                                     </Col>
                                     <Col md="9">

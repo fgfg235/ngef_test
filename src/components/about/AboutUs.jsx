@@ -20,8 +20,8 @@ class AboutUs extends React.Component {
                                 <div className="about-image">
                                     <div className="about-shape1"></div>
                                     <div className="about-shape11"></div>
-                                    <img src={`/assets/images/${this.state.Data.aboutImageOne}`} className="about-img1 img-fluid" alt="" />
-                                    <img src={`/assets/images/${this.state.Data.aboutImageTwo}`} className="about-img2 img-fluid" alt="" />
+                                    <img src={`./assets/images/${this.state.Data.aboutImageOne}`} className="about-img1 img-fluid" alt="" />
+                                    <img src={`./assets/images/${this.state.Data.aboutImageTwo}`} className="about-img2 img-fluid" alt="" />
                                     <div className="about-shape2"></div>
                                     <div className="about-shape22"></div>
                                 </div>

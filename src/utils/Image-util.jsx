@@ -1,5 +1,5 @@
 function getImageUrl(name) {
-  return `/assets/images/${name}`
+  return `./assets/images/${name}`
 }
 
 export {getImageUrl};

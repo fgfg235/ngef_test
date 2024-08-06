@@ -18,7 +18,7 @@ class AboutUsTwo extends React.Component {
                         <Row>
                             <Col lg="5" md="0">
                                 <div className="about-images">
-                                    <img className="about-img3 img-fluid" src={`/assets/images/${this.state.Data.aboutImageThree}`} alt="" />
+                                    <img className="about-img3 img-fluid" src={`./assets/images/${this.state.Data.aboutImageThree}`} alt="" />
                                 </div>
                             </Col>
                             <Col lg="7" md="12">

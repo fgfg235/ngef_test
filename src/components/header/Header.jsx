@@ -57,7 +57,7 @@ const Header = () => {
                     <Row>
                         <Col xl="12" md="2">
                             <div className="logo" align="center">
-                                <Link to="/"><img width='260px' src="/public/assets/images/af_logo_kr.png" alt="" /></Link>
+                                <Link to="/"><img width='260px' src="../../assets/images/af_logo_kr.png" alt="" /></Link>
                             </div>
                         </Col>
                     </Row>

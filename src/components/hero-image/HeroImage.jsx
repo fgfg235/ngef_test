@@ -27,7 +27,7 @@ class HeroImage extends React.Component {
     render() {
 
         const getImageUrl = (name) => {
-            return `/assets/images/${name}`;
+            return `./assets/images/${name}`;
         };
 
         //document.getElementById('hero-img').style.background = `url("/assets/images/${this.state.Data.heroBackground}")`;
@@ -35,7 +35,7 @@ class HeroImage extends React.Component {
         return (
             <Styles>
                 {/* Hero Image */}
-                < section className="hero-image-area" style={{ backgroundImage: `url("/assets/images/${this.state.Data.heroBackground}")` }}>
+                < section className="hero-image-area" style={{ backgroundImage: `url("./assets/images/${this.state.Data.heroBackground}")` }}>
                     {/* <div className="hero-table w-100">
                         <div className="hero-tablecell">
                             <Container className='px-5'>

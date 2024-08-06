@@ -55,7 +55,7 @@ class MobileMenu extends React.Component {
                                             </a>
                                         </div>
                                         <div className="mb-logo">
-                                            <Link to="/"><img src="/assets/images/f-logo.png" alt="" /></Link>
+                                            <Link to="/"><img src="./assets/images/f-logo.png" alt="" /></Link>
                                         </div>
                                     </div>
                                 </div>

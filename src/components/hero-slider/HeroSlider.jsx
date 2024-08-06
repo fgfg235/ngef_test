@@ -47,7 +47,7 @@ class HeroSlider extends React.Component {
                             this.state.Data.map((data, i) => (
                                 <div className="slider-item" key={i}>
                                     <div className="image-container">
-                                        <img src={`/assets/images/${data.backgroundImage}`} className="slider-image" alt={data.backgroundImage} />
+                                        <img src={`./assets/images/${data.backgroundImage}`} className="slider-image" alt={data.backgroundImage} />
                                     </div>
                                     <div className="slider-table">
                                         <div className="slider-tablecell">

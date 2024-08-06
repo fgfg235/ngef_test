@@ -26,14 +26,14 @@ const Header = () => {
                                 </div>
                                 <div className="lag-box">
                                     <Dropdown>
-                                        <Dropdown.Toggle as="a"><img src="/assets/images/kr.png" alt="" />Kor<i className="bi bi-chevron-down"></i></Dropdown.Toggle>
+                                        <Dropdown.Toggle as="a"><img src="./assets/images/kr.png" alt="" />Kor<i className="bi bi-chevron-down"></i></Dropdown.Toggle>
                                         <Dropdown.Menu as="ul">
-                                            <Dropdown.Item as="li"><img src="/assets/images/kr.png" alt="" /> Kor</Dropdown.Item>
-                                            <Dropdown.Item as="li"><img src="/assets/images/us.png" alt="" /> Eng</Dropdown.Item>
-                                            <Dropdown.Item as="li"><img src="/assets/images/fra.png" alt="" /> Fre</Dropdown.Item>
-                                            <Dropdown.Item as="li"><img src="/assets/images/ger.png" alt="" /> Ger</Dropdown.Item>
-                                            <Dropdown.Item as="li"><img src="/assets/images/spa.png" alt="" /> Spa</Dropdown.Item>
-                                            <Dropdown.Item as="li"><img src="/assets/images/bra.png" alt="" /> Bra</Dropdown.Item>
+                                            <Dropdown.Item as="li"><img src="./assets/images/kr.png" alt="" /> Kor</Dropdown.Item>
+                                            <Dropdown.Item as="li"><img src="./assets/images/us.png" alt="" /> Eng</Dropdown.Item>
+                                            <Dropdown.Item as="li"><img src="./assets/images/fra.png" alt="" /> Fre</Dropdown.Item>
+                                            <Dropdown.Item as="li"><img src="./assets/images/ger.png" alt="" /> Ger</Dropdown.Item>
+                                            <Dropdown.Item as="li"><img src="./assets/images/spa.png" alt="" /> Spa</Dropdown.Item>
+                                            <Dropdown.Item as="li"><img src="./assets/images/bra.png" alt="" /> Bra</Dropdown.Item>
                                         </Dropdown.Menu>
                                     </Dropdown>
                                 </div>

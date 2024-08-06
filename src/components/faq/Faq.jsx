@@ -28,7 +28,7 @@ class Faq extends React.Component {
                             </Col>
                             <Col md="5">
                                 <div className="chat-box text-center">
-                                    <img src={`/assets/images/${this.state.Data.imgUrl}`} alt="" className="img-fluid" />
+                                    <img src={`./assets/images/${this.state.Data.imgUrl}`} alt="" className="img-fluid" />
                                     <h5>Any Question?</h5>
                                     <p>You can ask anything you want to know about us.</p>
                                     <span>Write down your question</span>

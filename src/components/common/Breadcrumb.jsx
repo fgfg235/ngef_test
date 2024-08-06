@@ -11,7 +11,7 @@ export class BreadcrumbBox extends React.Component {
     render() {
         return (
             <Styles>
-                <section className="breadcrumb-area" style={{ backgroundImage: `url(/assets/images/${this.state.backgroundImage})` }}>
+                <section className="breadcrumb-area" style={{ backgroundImage: `url(./assets/images/${this.state.backgroundImage})` }}>
                     <Container>
                         <Row>
                             <Col md="12">

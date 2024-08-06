@@ -1,0 +1,42 @@
+{
+    "secTitle": "Our Cleaning Expert",
+    "secHeading": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+    "dataList": [
+        {
+            "id": "1",
+            "imgUrl": "team-1.jpg",
+            "name": "Kamla Haris",
+            "title": "Cleaning Expart"
+        },
+        {
+            "id": "2",
+            "imgUrl": "team-2.jpg",
+            "name": "Kim Moody",
+            "title": "Cleaning Expart"
+        },
+        {
+            "id": "3",
+            "imgUrl": "team-3.jpg",
+            "name": "Kemel Parker",
+            "title": "Cleaning Expart"
+        },
+        {
+            "id": "4",
+            "imgUrl": "team-4.jpg",
+            "name": "Alison Pery",
+            "title": "Cleaning Expart"
+        },
+        {
+            "id": "5",
+            "imgUrl": "team-5.jpg",
+            "name": "Jenny White",
+            "title": "Cleaning Expart"
+        },
+        {
+            "id": "6",
+            "imgUrl": "team-6.jpg",
+            "name": "Nam Cameron",
+            "title": "Cleaning Expart"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+[
+    {
+        "id": "1",
+        "boxIcon": "flaticon-thumbs-like",
+        "title": "Quality Work",
+        "subTitle": "Lorem ipsum dolor sit, amet consectetur elit."
+    },
+    {
+        "id": "2",
+        "boxIcon": "flaticon-skillful",
+        "title": "Expert Cleaner",
+        "subTitle": "Lorem ipsum dolor sit, amet consectetur elit."
+    },
+    {
+        "id": "3",
+        "boxIcon": "flaticon-support",
+        "title": "24/7 Support",
+        "subTitle": "Lorem ipsum dolor sit, amet consectetur elit."
+    }
+]

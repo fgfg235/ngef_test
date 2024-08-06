@@ -1,0 +1,54 @@
+{
+    "secTitle": "Our Recent Project",
+    "secHeading": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+    "dataList": [
+        {
+            "id": "1",
+            "targetId": "interior",
+            "imgUrl": "project-1.jpg",
+            "category": "interior",
+            "proTitle": "Filter Project 1",
+            "proLink": "/project-details"
+        },
+        {
+            "id": "2",
+            "targetId": "exterior",
+            "imgUrl": "project-2.jpg",
+            "category": "exterior",
+            "proTitle": "Filter Project 2",
+            "proLink": "/project-details"
+        },
+        {
+            "id": "3",
+            "targetId": "laundry",
+            "imgUrl": "project-3.jpg",
+            "category": "laundry",
+            "proTitle": "Filter Project 3",
+            "proLink": "/project-details"
+        },
+        {
+            "id": "4",
+            "targetId": "office",
+            "imgUrl": "project-4.jpg",
+            "category": "office",
+            "proTitle": "Filter Project 4",
+            "proLink": "/project-details"
+        },
+        {
+            "id": "5",
+            "targetId": "shop",
+            "imgUrl": "project-5.jpg",
+            "category": "shop",
+            "proTitle": "Filter Project 5",
+            "proLink": "/project-details"
+        },
+        {
+            "id": "6",
+            "targetId": "interior",
+            "imgUrl": "project-6.jpg",
+            "category": "interior",
+            "proTitle": "Filter Project 6",
+            "proLink": "/project-details"
+        }
+    ]
+}

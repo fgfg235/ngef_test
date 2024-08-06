@@ -1,0 +1,30 @@
+[
+    {
+        "id": "1",
+        "imgUrl": "f-post-1.jpg",
+        "blogDate": "Mar 12,2021",
+        "blogTitle": "Lorem ipsum dolor sit amet...",
+        "blogLink": "/blog-details"
+    },
+    {
+        "id": "2",
+        "imgUrl": "f-post-2.jpg",
+        "blogDate": "Mar 12,2021",
+        "blogTitle": "Lorem ipsum dolor sit amet...",
+        "blogLink": "/blog-details"
+    },
+    {
+        "id": "3",
+        "imgUrl": "f-post-3.jpg",
+        "blogDate": "Mar 12,2021",
+        "blogTitle": "Lorem ipsum dolor sit amet...",
+        "blogLink": "/blog-details"
+    },
+    {
+        "id": "4",
+        "imgUrl": "f-post-4.jpg",
+        "blogDate": "Mar 12,2021",
+        "blogTitle": "Lorem ipsum dolor sit amet...",
+        "blogLink": "/blog-details"
+    }
+]

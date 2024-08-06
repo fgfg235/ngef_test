@@ -1,0 +1,20 @@
+{
+    "secTitle": "Our Clients Word",
+    "secHeading": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+    "dataList": [
+        {
+            "id": "1",
+            "imgUrl": "testimonial-1.jpg",
+            "name": "Alexendra Silva",
+            "title": "CEO of XR Company",
+            "comment": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sapiente, a suscipit. Molestiae eos, ex delectus veritatis saepe natus quos dicta, explicabo eveniet reiciendis labore aut, vero minima vitae. Quas, nesciunt."
+        },
+        {
+            "id": "2",
+            "imgUrl": "testimonial-2.jpg",
+            "name": "Anita Chowdhury",
+            "title": "Cleaning Expart",
+            "comment": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sapiente, a suscipit. Molestiae eos, ex delectus veritatis saepe natus quos dicta, explicabo eveniet reiciendis labore aut, vero minima vitae. Quas, nesciunt."
+        }
+    ]
+}

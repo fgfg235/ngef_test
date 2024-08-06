@@ -1,0 +1,42 @@
+{
+    "secTitle": "Services We Offer",
+    "secHeading": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+    "dataList": [
+        {
+            "id": "1",
+            "icon": "flaticon-laundry",
+            "title": "Laundry Service",
+            "desc": "Lorem ipsum dolor sit, amet consectetur elit."
+        },
+        {
+            "id": "2",
+            "icon": "flaticon-house",
+            "title": "House Cleaning",
+            "desc": "Lorem ipsum dolor sit, amet consectetur elit."
+        },
+        {
+            "id": "3",
+            "icon": "flaticon-post-office",
+            "title": "Office Cleaning",
+            "desc": "Lorem ipsum dolor sit, amet consectetur elit."
+        },
+        {
+            "id": "3=4",
+            "icon": "flaticon-store",
+            "title": "Shop Cleaning",
+            "desc": "Lorem ipsum dolor sit, amet consectetur elit."
+        },
+        {
+            "id": "5",
+            "icon": "flaticon-doorway",
+            "title": "Indoor Cleaning",
+            "desc": "Lorem ipsum dolor sit, amet consectetur elit."
+        },
+        {
+            "id": "6",
+            "icon": "flaticon-mountains",
+            "title": "Outdoor Cleaning",
+            "desc": "Lorem ipsum dolor sit, amet consectetur elit."
+        }
+    ]
+}

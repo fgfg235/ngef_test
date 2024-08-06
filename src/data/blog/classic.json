@@ -1,0 +1,35 @@
+[
+    {
+        "id": "1",
+        "imgUrl": "blog-7.jpg",
+        "postTitle": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam sunt nemo maiores magni, tempora iste architecto...",
+        "postLink": "/blog-details",
+        "authorImg": "author.jpg",
+        "authorName": "Jhon Doe",
+        "postTag": "home clean",
+        "postDate": "Jan 12, 2021",
+        "comCount": "31"
+    },
+    {
+        "id": "2",
+        "imgUrl": "blog-8.jpg",
+        "postTitle": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam sunt nemo maiores magni, tempora iste architecto...",
+        "postLink": "/blog-details",
+        "authorImg": "author.jpg",
+        "authorName": "Jhon Doe",
+        "postTag": "home clean",
+        "postDate": "Jan 12, 2021",
+        "comCount": "31"
+    },
+    {
+        "id": "3",
+        "imgUrl": "blog-9.jpg",
+        "postTitle": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam sunt nemo maiores magni, tempora iste architecto...",
+        "postLink": "/blog-details",
+        "authorImg": "author.jpg",
+        "authorName": "Jhon Doe",
+        "postTag": "home clean",
+        "postDate": "Jan 12, 2021",
+        "comCount": "31"
+    }
+]

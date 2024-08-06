@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "title": "Session 1 : 분산에너지",
+        "chairman": "session 1 좌장",
+        "keyNote": "session 1 키노트 스피커",
+        "subTitle": "session 1 주제",
+        "panel": "session 1 패널"
+    },
+    {
+        "id": "2",
+        "title": "Session 2 : 분산에너지",
+        "chairman": "session 2 좌장",
+        "keyNote": "session 2 키노트 스피커",
+        "subTitle": "session 2 주제",
+        "panel": "session 2 패널"
+    },
+    {
+        "id": "3",
+        "title": "Session 3 : 분산에너지",
+        "chairman": "session 3 좌장",
+        "keyNote": "session 3 키노트 스피커",
+        "subTitle": "session 3 주제",
+        "panel": "session 3 패널"
+    }
+]

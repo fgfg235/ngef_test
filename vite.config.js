@@ -5,7 +5,7 @@ import eslint from 'vite-plugin-eslint'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react(), eslint()],
-  base: "/webStoreTemp/",
+  base: "/ngef_test/",
   resolve: [
     {find: "@", replacement: "/src"},
   ]

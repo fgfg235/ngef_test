@@ -60,6 +60,7 @@ const HeaderTwo = () => {
                                                     <Link className="nav-link dropdown-toggle" to="/" data-toggle="dropdown">소개 <i className="bi bi-chevron-down"></i></Link>
                                                     <ul className="dropdown list-unstyled">
                                                         <li className="nav-item active"><Link className="nav-link" to="/board/About">인사말</Link></li>
+                                                        <li className="nav-item"><Link className="nav-link" to="/board/About">추진위원회</Link></li>
                                                         <li className="nav-item"><Link className="nav-link" to="/board/About">비전</Link></li>
                                                     </ul>
                                                 </li>
@@ -76,11 +77,10 @@ const HeaderTwo = () => {
                                                     </ul>
                                                 </li>
                                                 <li className="nav-item dropdown mx-3">
-                                                    <Link className="nav-link dropdown-toggle" to="/" data-toggle="dropdown">프로그램 <i className="bi bi-chevron-down"></i></Link>
+                                                    <Link className="nav-link dropdown-toggle" to="/" data-toggle="dropdown">부대행사 <i className="bi bi-chevron-down"></i></Link>
                                                     <ul className="dropdown list-unstyled">
-                                                        <li className="nav-item"><Link className="nav-link" to="/board/Schedule">LIVE</Link></li>
                                                         <li className="nav-item"><Link className="nav-link" to="/board/About">리더스 포럼</Link></li>
-                                                        <li className="nav-item"><Link className="nav-link" to="/">부대행사</Link></li>
+                                                        <li className="nav-item"><Link className="nav-link" to="/">연계프로그램</Link></li>
                                                     </ul>
                                                 </li>
                                                 <li className="nav-item dropdown mx-3">
@@ -102,7 +102,7 @@ const HeaderTwo = () => {
                                                     </ul>
                                                 </li>
                                                 <li className="nav-item">
-                                                    <Link className="nav-link" to="/board/Schedule">지난 포럼</Link>
+                                                    <Link className="nav-link" to="/board/Schedule">LIVE</Link>
                                                 </li>
                                                 <li className="nav-item dropdown mx-3">
                                                     <Link className="nav-link dropdown-toggle" to="/" data-toggle="dropdown">정보센터 <i className="bi bi-chevron-down"></i></Link>

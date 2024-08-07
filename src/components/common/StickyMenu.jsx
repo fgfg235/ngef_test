@@ -98,12 +98,6 @@ class StickyMenu extends React.Component {
                                                     <li className="nav-item"><Link className="nav-link" to="/blog-details">Blog Details</Link></li> */}
                                                 </ul>
                                             </li>
-                                            <li className="nav-item dropdown mx-3">
-                                                <Link className="nav-link dropdown-toggle" to="/" data-toggle="dropdown">아카이브_hidden 예정<i className="bi bi-chevron-down"></i></Link>
-                                                <ul className="dropdown list-unstyled">
-                                                    <li className="nav-item"><Link className="nav-link" to="/board/Schedule">2024</Link></li>
-                                                </ul>
-                                            </li>
                                             <li className="nav-item">
                                                 <Link className="nav-link" to="/board/Schedule">LIVE</Link>
                                             </li>
